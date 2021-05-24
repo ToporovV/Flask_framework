@@ -9,6 +9,7 @@ python = "^3.8"
 Flask = "^1.1.2"
 
 [tool.poetry.dev-dependencies]
+Flask-SQLAlchemy = "^2.5.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
